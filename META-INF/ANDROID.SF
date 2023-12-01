@@ -1,0 +1,188 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: 2OeW7poGwxwNFGTcyD5nQ2rUW94=
+SHA1-Digest-Manifest: hd3MeFB3W2iuOtYZc0MKIiMHLIA=
+Created-By: 1.8.0_211 (Oracle Corporation)
+
+Name: assets/icon/image_have_icon_x_id_file_png.png
+SHA1-Digest: qO/yv5+3rw9N/MKbihX99uOzCA8=
+
+Name: res/drawable-xxhdpi-v4/awaken_boss_hp_2.png
+SHA1-Digest: +DhdRptEPG4O95HGrj8AvD62N2Y=
+
+Name: assets/UniformClothingClothesWardrobe
+SHA1-Digest: JPx5B6QBfo3I6iRuNxZmxVAU0m4=
+
+Name: res/drawable-xxhdpi-v4/skill_2.png
+SHA1-Digest: /1AkLhOGctZF2VB1LD/PvvF1pXI=
+
+Name: res/drawable-xxhdpi-v4/bg_awaken_flash.jpg
+SHA1-Digest: /y6pYfy9sQzmZlSIGX0awgg/YKo=
+
+Name: res/drawable-xxhdpi-v4/item_9.png
+SHA1-Digest: 4eEOkj0vO2NiCq5gXXNhKjrg4FA=
+
+Name: lib/arm64-v8a/libBugly.so
+SHA1-Digest: 4Z5nlUut9/xAA+GANShnkCHXysA=
+
+Name: res/drawable-xxhdpi-v4/retry.png
+SHA1-Digest: hFlfFF3BD/+mZhKv6pAMRk/PLGU=
+
+Name: assets/af.bin
+SHA1-Digest: snPfpY/9/k1utLmKe9sUpC/Ftuw=
+
+Name: res/layout/awaken_activity_choise.xml
+SHA1-Digest: Jzn0a+vvq/gH3+3jPmD2CpYrzhM=
+
+Name: assets/InstructionFilmLoofahWhiteGourdPumpkin
+SHA1-Digest: D8Dz2J87SgqKZPp5mYZjj/jsbEE=
+
+Name: res/drawable-xxhdpi-v4/item_5.png
+SHA1-Digest: UfuG67TFcMwK7ZDEcm9rPy/1FkQ=
+
+Name: res/drawable-xxhdpi-v4/supply.png
+SHA1-Digest: b8bBw3OsU60Wk87u/G4TZ/jqYMw=
+
+Name: assets/ijm_lib/x86/libexec.so
+SHA1-Digest: 8p0kse1DFC02najQeay2QkzCuPY=
+
+Name: res/drawable-xxhdpi-v4/awaken_choice_none.png
+SHA1-Digest: mL+DSkz5tpn1k3BcqJUSPbsvtp4=
+
+Name: res/mipmap-xxhdpi-v4/background.jpg
+SHA1-Digest: 87IGCO4OA/2IL391Yj9N+MNnG68=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: ghfDITNI56YWruJWcOPobLTxG7E=
+
+Name: res/drawable-xxhdpi-v4/item_4.png
+SHA1-Digest: XpKBlZ7D7M9lduDBCjmN0xPz9zw=
+
+Name: res/xml/file_paths.xml
+SHA1-Digest: 5qB4m4iIBCU/ysd/YjV/zhQcGEY=
+
+Name: assets/UniformClothingClothesWardrobe_6000097
+SHA1-Digest: Crn+w/qD2wB8IrDSC/wjnE3ePJM=
+
+Name: assets/ijm_lib/arm64-v8a/libexec.so
+SHA1-Digest: B5R+DKKbw3fzHNiD0pnRYPvqyls=
+
+Name: assets/images/icon_titl_last_encrypted.png
+SHA1-Digest: ky6liicMhV7CYdkLsA6Rg+Iteck=
+
+Name: res/drawable-xxhdpi-v4/skill_1.png
+SHA1-Digest: LwZMXwh6sPAKc7xOO9/gIzeO0IQ=
+
+Name: resources.arsc
+SHA1-Digest: hCfbbYpdioQX8cqCr43dWFxmYJk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: MTXzwEwvi8+5+4W6p3tY9vn/VLw=
+
+Name: res/layout/awaken_activity_splash.xml
+SHA1-Digest: 9ynjoGqdpdokzzegVMljFLKGA38=
+
+Name: res/layout/awaken_activity_poup.xml
+SHA1-Digest: 3Gvq+8ADMC7I9METqtGmVSh0YVo=
+
+Name: res/drawable-xxhdpi-v4/item_3.png
+SHA1-Digest: X0XfpYbC3bbvJVc8ZEsu0HSJ/Lk=
+
+Name: res/drawable-xxhdpi-v4/shop_back.png
+SHA1-Digest: HUXRQi8vNo3ygKXeVDu00aFzKFY=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: oQLeT7+cq4oORvGkePUl0+t+n3c=
+
+Name: assets/FullUpCheckIn
+SHA1-Digest: pfCPF2OYXr2VwayjlB8+QYXE/9g=
+
+Name: res/drawable-xxhdpi-v4/awaken_choice_boss_2.png
+SHA1-Digest: Jk0SXz6mRYh9jVB8Vyit+Gzwc5s=
+
+Name: res/mipmap-ldpi-v4/ic_launcher.png
+SHA1-Digest: mETXUfIgKZWUdncKLJBJdm1bORc=
+
+Name: res/drawable-xxhdpi-v4/to_shop.png
+SHA1-Digest: k3ADC1rrXf8BcjY7AaqKJnvMdXg=
+
+Name: lib/armeabi-v7a/libBugly.so
+SHA1-Digest: GmX7gPJpiKrybyiVYjDhGiCRy0A=
+
+Name: res/drawable-xxhdpi-v4/back.png
+SHA1-Digest: u0Dh3MAdtSYyzAKZY0NAybMUgAY=
+
+Name: res/drawable-xxhdpi-v4/item_1.png
+SHA1-Digest: sv11C/gyiNaK05v2qS1frc6B/Tc=
+
+Name: res/layout/awaken_activity_shop.xml
+SHA1-Digest: yMdO2QiFAPDdyer8D70Dq75G2PQ=
+
+Name: assets/ijiami.ajm
+SHA1-Digest: OrMd7Xx10d+FHyB9IJfP0z3tHuE=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: vUcwcH7503Hghpt6nvQK3I2JpUc=
+
+Name: assets/ijm_lib/armeabi/libexec.so
+SHA1-Digest: cdXee5YZiJjkTtNFPnHdHDvk1RA=
+
+Name: res/drawable-xxhdpi-v4/bg_awaken_shop.jpg
+SHA1-Digest: +Mkl5LIBW2zwe7qgekGcIPkz7ek=
+
+Name: res/drawable-xxhdpi-v4/awaken_battle_self.png
+SHA1-Digest: kW2V//gVMyMoE0VT0E5lfs5B5oQ=
+
+Name: assets/signed.bin
+SHA1-Digest: oMrgiuBsTVzG8dceVCNpHL74+6o=
+
+Name: res/drawable-xxhdpi-v4/awaken_choice_boss_1.png
+SHA1-Digest: SbaxmW0BFtua1/A2HnkU9w4Wb3o=
+
+Name: res/drawable-xxhdpi-v4/awaken_battle_boss_1.png
+SHA1-Digest: 1O1OKaVY0DA266Hx1lY4Jy1JjOs=
+
+Name: res/drawable-xxhdpi-v4/bg_awaken_battle.jpg
+SHA1-Digest: VPyPUnZa0XtEdVfweclkjeyvz+g=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: BFYwG+c9dn597/nkK0aW/9LQs38=
+
+Name: res/layout-v17/awaken_activity_shop.xml
+SHA1-Digest: IDRaPvbTCKelpORymc5aLCCM6SA=
+
+Name: assets/ijm_lib/x86_64/libexec.so
+SHA1-Digest: Pg7mz3DgjJJHx7BHhaeOuZhraYg=
+
+Name: res/drawable-xxhdpi-v4/awaken_self_hp.png
+SHA1-Digest: vmznmstiup1TIT2VOfBpUzkyNao=
+
+Name: res/drawable-xxhdpi-v4/awaken_battle_boss_2.png
+SHA1-Digest: OdL4J67EU47T8D/vMZVWDDHqrnA=
+
+Name: res/drawable-xxhdpi-v4/awaken_boss_hp_1.png
+SHA1-Digest: K9aPXF5d2xxr/4g1H+JVYjn5Au8=
+
+Name: res/layout/awaken_activity_battle.xml
+SHA1-Digest: l70+4nEym1Qkvug1BvCI0U3spB8=
+
+Name: res/drawable-xxhdpi-v4/bg_shop_items.png
+SHA1-Digest: w2Ri03tDf7NW/AmZ8WfEIux2ueE=
+
+Name: classes.dex
+SHA1-Digest: xnEC8+xdej3pBetl5Ys5SAEG9Y0=
+
+Name: assets/BccblindCarbonCopyBat
+SHA1-Digest: rwFpDTYNlgXGo1dNT9q03UT1g74=
+
+Name: res/drawable-xxhdpi-v4/item_10.png
+SHA1-Digest: PSjqN68WHTTKri9ybKKWHzA3OUM=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: cLZv0zVdWNlue5GVWKXmfqaTijI=
+
+Name: res/drawable-xxhdpi-v4/bg_awaken_choose.jpg
+SHA1-Digest: de5WhdSKi8AEgCXdkO2+GcILDdo=
+
+Name: assets/icon/image_icon_constructor_encrypted.png
+SHA1-Digest: ylHHHXPdSwt7zB8ZORxZRzW1syg=
+
