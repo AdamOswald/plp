@@ -3,6 +3,3 @@
   uses: riverolls/action-bundletool@v1
 - name: Use jar path
   run: java -jar ${{steps.bundletool.outputs.jar_path}} version
-
-- name: Setup Android Bundletool
-  uses: riverolls/action-bundletool@v1
