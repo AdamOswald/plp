@@ -52,7 +52,7 @@ jobs:
         # REPLACE: Zimperium Client Secret
         client_secret: ${{ secrets.ZSCAN_CLIENT_SECRET }}
         # REPLACE: The path to an .ipa or .apk
-        app_file: app-release-unsigned.apk
+        app_file: Mons_Awaken_2.0_Apkpure.apk
 
     - name: Upload SARIF file
       uses: github/codeql-action/upload-sarif@v3
