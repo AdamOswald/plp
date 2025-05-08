@@ -25,6 +25,3 @@ steps:
 
 - run: sdkmanager tools platform-tools
 
-- name: Setup Android SDK Tools
-  uses: android-actions/setup-android@v3.2.2
-
