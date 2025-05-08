@@ -43,7 +43,7 @@ jobs:
         uses: appknox/appknox-github-action@f43bb7487653743bcded6284dc15f0b3d3b04b59
         with:
           appknox_access_token: ${{ secrets.APPKNOX_ACCESS_TOKEN }}
-          file_path: plp/Mons_Awaken_2.0_Apkpure.apk       # Specify the path to your .ipa or .apk here
+          file_path: Mons_Awaken_2.0_Apkpure.apk       # Specify the path to your .ipa or .apk here
           risk_threshold: MEDIUM                                      # Update this to desired risk threshold [LOW, MEDIUM, HIGH, CRITICAL]
           sarif: Enable
 
