@@ -31,9 +31,6 @@
     echo '${{ steps.apk-info.outputs.file-size }}'
     echo '${{ steps.apk-info.outputs.readable-file-size }}'
 
-- name: Apk Info Action
-  uses: hkusu/apk-info-action@v1.0.3
-
 - uses: hkusu/apk-info-action@v1.0.3
   id: apk-info
   with:
