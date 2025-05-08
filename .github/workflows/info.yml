@@ -37,7 +37,7 @@
 - uses: hkusu/apk-info-action@v1
   id: apk-info
   with:
-    apk-path: 'app/build/outputs/apk/release/app-release.apk'
+    apk-path: 'Mons_Awaken_2.0_Apkpure.apk'
 - name: Show result
   if: always()
   run: echo '${{ steps.apk-info.outputs.result }}' # success or failure
