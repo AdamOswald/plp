@@ -12,7 +12,7 @@
   run: echo "path=$(find . -regex '^.*/build/outputs/apk/.*\.apk$' -type f | head -1)" >> $GITHUB_OUTPUT
 - name: Get apk info
   id: apk-info
-  uses: hkusu/apk-info-action@v1
+  uses: hkusu/apk-info-action@v1.0.3
   with:
     apk-path: ${{ steps.apk-path.outputs.path }}
 - name: Show apk info
@@ -34,7 +34,7 @@
 - name: Apk Info Action
   uses: hkusu/apk-info-action@v1.0.3
 
-- uses: hkusu/apk-info-action@v1
+- uses: hkusu/apk-info-action@v1.0.3
   id: apk-info
   with:
     apk-path: 'Mons_Awaken_2.0_Apkpure.apk'
