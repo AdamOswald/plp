@@ -1,0 +1,5 @@
+- name: Setup Bundletool latest
+  id: bundletool
+  uses: riverolls/action-bundletool@v1
+- name: Use jar path
+  run: java -jar ${{steps.bundletool.outputs.jar_path}} version
