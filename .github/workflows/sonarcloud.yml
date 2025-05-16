@@ -47,7 +47,7 @@ jobs:
 
         # You can pin the exact commit or the version.
         # uses: SonarSource/sonarcloud-github-action@v2.2.0
-        uses: SonarSource/sonarcloud-github-action@3f80f38bc6bad1df00a99b2a458f10935079b9c7
+        uses: SonarSource/sonarcloud-github-action@13a24e453e2e6262f3bb0c5fa8241031e637a028
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}   # Generate a token on Sonarcloud.io, add it to the secrets of this repo with the name SONAR_TOKEN (Settings > Secrets > Actions > add new repository secret)
         with:
